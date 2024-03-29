@@ -1,0 +1,164 @@
+Name,Item Bonus,Type,Recipe
+B.F. Sword,+10% Attack Damage,Basic Item,
+Chain Vest,+20 Armor,Basic Item,
+Giant's Belt,+150 Health,Basic Item,
+Needlessly Large Rod,+10 Ability Power,Basic Item,
+Negatron Cloak,+20 Magic Resist,Basic Item,
+Recurve Bow,+10% Attack Speed,Basic Item,
+Sparring Gloves,+20% Crit Chance,Basic Item,
+Spatula,It must do something...,Basic Item,
+Tear of the Goddess,+15 Mana,Basic Item,
+Adaptive Helm,Combat Start: The holder gains bonuses based on their starting position. Front Two Rows: 15 Ability Power and 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.Back Two Rows: 20 Ability Power and gain 10 Mana every 3 seconds.,Combined Item,Tear of the Goddess + Negatron Cloak
+Archangel's Staff,Grant 20 bonus Ability Power. Combat start: Grant 30 Ability Power every 5 seconds.,Combined Item,Tear of the Goddess + Needlessly Large Rod
+Bloodthirster,"Damage heals the holder for 20% of the damage dealt. Once per combat at 40% Health, gain a 25% maximum Health shield that lasts up to 5 seconds.",Combined Item,B.F. Sword + Negatron Cloak
+Blue Buff,"Max mana reduced by 10.When the holder gets a takedown, they deal 8% more damage for 8 seconds.",Combined Item,Tear of the Goddess + Tear of the Goddess
+Bramble Vest,"Grants 30 Armor. Negates 50% bonus damage from incoming critical strikes. On being hit by an attack, deal 75/100/150★ magic damage to all nearby enemies (once every 2.5 seconds). (Direct damage item)",Combined Item,Chain Vest + Chain Vest
+Crownguard,"Combat start: Shields the holder for 30% of their max health for 8 seconds. When the shield breaks or expires, gain 40 Ability Power.",Combined Item,Needlessly Large Rod + Chain Vest
+Deathblade,Grant 66% bonus Attack Damage.,Combined Item,B.F. Sword + B.F. Sword
+Dragon's Claw,"Grant 65 bonus Magic Resist. Every 2 seconds, regenerate 9% maximum Health.",Combined Item,Negatron Cloak + Negatron Cloak
+Dryad Emblem,The holder gains the Dryad trait.,Combined Item,Spatula + Giant's Belt
+Edge of Night,"Unique: Once per combat: At 60% Health, the holder briefly becomes untargetable and sheds negative effects. Then they gain 15% bonus Attack Speed.",Combined Item,B.F. Sword + Chain Vest
+Evenshroud,Grant 25 Armor and Magic Resist for the first 10 seconds of combat. 50% Sunder enemies within 2 hexes.Sunder: reduce Armor by 50%,Combined Item,Negatron Cloak + Giant's Belt
+Fated Emblem,The holder gains the Fated trait.,Combined Item,Spatula + Needlessly Large Rod
+Gargoyle Stoneplate,Gain 100 bonus HP. Start with 35 Armor & Magic Restistance. Gain +13 Armor and +13 Magic Resist for each enemy targeting the holder.,Combined Item,Chain Vest + Negatron Cloak
+Ghostly Emblem,The holder gains the Ghostly trait.,Combined Item,Spatula + B.F. Sword
+Giant Slayer,Grant 15% bonus Attack Damage and 15 bonus Ability Power. Abilities and attacks deal 30% more damage to enemies with more than 1600 maximum Health.,Combined Item,B.F. Sword + Recurve Bow
+Guardbreaker,Grant 15% bonus Attack Damage and 10 bonus Ability Power. Abilities and attacks deal 30% more damage to shielded enemies.,Combined Item,Giant's Belt + Sparring Gloves
+Guinsoo's Rageblade,Attacks grant +5% bonus Attack Speed. This effect stacks!,Combined Item,Needlessly Large Rod + Recurve Bow
+Hand of Justice,"Grant 2 effects: +15% Attack Damage and 15 Ability Power, Attacks and Abilities heal for 15% of damage dealt. Each round, randomly increase 1 of these effects by 30%.",Combined Item,Sparring Gloves + Tear of the Goddess
+Heavenly Emblem,The holder gains the Heavenly trait.,Combined Item,Spatula + Negatron Cloak
+Hextech Gunblade,Grant 22% Omnivamp. Damage heals the lowest percent Health ally for the same amount.,Combined Item,B.F. Sword + Needlessly Large Rod
+Infinity Edge,Unique: Grants 35% bonus Attack Damage and 15% Critical Strike Chance. Damage from an Ability can critically strike.,Combined Item,B.F. Sword + Sparring Gloves
+Ionic Spark,"Gain 200 HP. Enemies within 2 hexes have 50% reduced Magic Resist. When they cast an Ability, they are zapped for magic damage equal to 185% of their maximum Mana. (Direct damage item)",Combined Item,Needlessly Large Rod + Negatron Cloak
+Jeweled Gauntlet,Grant 35 bonus Ability Power and 15% Critical Strike Chance. Damage from an Ability can critically strike. ,Combined Item,Sparring Gloves + Needlessly Large Rod
+Last Whisper,Unique: Grant 10% bonus Attack Damage. Dealing physical damage from an attack or Ability reduces the target's Armor by 50% for 5 seconds. This effect does not stack.,Combined Item,Recurve Bow + Sparring Gloves
+Morellonomicon,"Unique: Grant 10 bonus Ability Power and 15% Attack Speed. Magic or true damage from an Ability burns the holder's target, dealing 10% of the target's maximum Health as true damage over 10 seconds and reducing healing by 30% for the duration of the burn.",Combined Item,Needlessly Large Rod + Giant's Belt
+Mythic Emblem,The holder gains the Mythic trait.,Combined Item,Spatula + Tear of the Goddess
+Nashor's Tooth,"After casting an Ability, gain 40% Attack Speed for 5 seconds.",Combined Item,Recurve Bow + Giant's Belt
+Porcelain Emblem,The holder gains the Porcelain trait.,Combined Item,Spatula + Recurve Bow
+Protector's Vow,"Grant 45 bonus starting Mana. Once per combat: At 40% Health, gain a 25% maximum Health shield that lasts up to 5 seconds and 35 Armor and 35 Magic Resist for the rest of combat. Aura item",Combined Item,Chain Vest + Tear of the Goddess
+Quicksilver,Unique: Grants 20% bonus Attack Speed. Combat start: immune to crowd control for 15 seconds.,Combined Item,Negatron Cloak + Sparring Gloves
+Rabadon's Deathcap,Grant 50 bonus Ability Power and 20% bonus Damage.,Combined Item,Needlessly Large Rod + Needlessly Large Rod
+Red Buff,"Deal 6% bonus damage. Attacks and Abilities 1% Burn and 33% Wound enemies for 5 seconds.Burn: Deals a percent of the target's maximum Health as true damage every second
+Wound: Reduces healing received",Combined Item,Recurve Bow + Recurve Bow
+Redemption,Heal adjacent allies for 15% of their missing Health every 5 seconds. Affected allies take 10% less multi-target damage for 5 seconds (damage reduction does not stack). Aura Item,Combined Item,Tear of the Goddess + Giant's Belt
+Runaan's Hurricane,"Grants 20% bonus Attack Damage. Attacks fire a bolt at a nearby enemy, dealing 55% Attack Damage as physical damage. (Direct damage item)",Combined Item,Recurve Bow + Negatron Cloak
+Spear of Shojin,Attacks grant 5 bonus mana.,Combined Item,B.F. Sword + Tear of the Goddess
+Statikk Shiv,"Grants 15 bonus Ability Power. Every 3rd attack unleashes chain lightning that bounces to 4 enemies, dealing 35 magic damage and reducing their Magic Resist by 50% for 5 seconds. (Direct damage item)",Combined Item,Tear of the Goddess + Recurve Bow
+Steadfast Heart,"Take 8% less damage. While above 50% health, take 15% less damage instead. ",Combined Item,Sparring Gloves + Chain Vest
+Sterak's Gage,"Once per combat at 60% Health, increase max health by 20% and gain 35% Attack Damage for the rest of combat.",Combined Item,B.F. Sword + Giant's Belt
+Storyweaver Emblem,The holder gains the Storyweaver trait.,Combined Item,Spatula + Chain Vest
+Sunfire Cape,"Unique: Grant 250 bonus Health. Every 2 seconds, an enemy within 2 hexes is burned for 10% of their maximum Health as true damage over 10 seconds, and reducing healing by 30% for the duration.",Combined Item,Chain Vest + Giant's Belt
+Tactician's Crown,The holder's team gains 1 maximum team size.,Combined Item,Spatula + Spatula
+Thief's Gloves,Each round: equip 2 random items. Improves with player level! Consumes 3 item slots.,Combined Item,Sparring Gloves + Sparring Gloves
+Titan's Resolve,"Grants 2% Attack Damage and 2 Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, grant 20 Armor and 20 Magic Resist.",Combined Item,Chain Vest + Recurve Bow
+Umbral Emblem,The holder gains the Umbral trait.,Combined Item,Spatula + Sparring Gloves
+Warmog's Armor,Grants 500 bonus Health.,Combined Item,Giant's Belt + Giant's Belt
+Anima Visage,Regenerates 2.5% maximum health each second. Gain 450 Health.,Artifact Item,
+Blacksmith's Gloves,Each round: Equip 2 random Ornn Artifacts.Consumes 3 item slots.,Artifact Item,
+Deathfire Grasp,"Combat start: the holder fires a blast of energy at their target, marking them and dealing 20% of their maximum health as magic damage.For the next 10 seconds, the holder's abilities and attacks deal 35% increased damage to the marked target, and 25% increased damage to other targets.Unique - only 1 per champion",Artifact Item,
+Death's Defiance,50% of the damage the holder receives is instead dealt over 4 seconds as non-lethal damage. The holder's Attacks and Abilities also heal for 25% of damage dealt.Unique - Only One Per Champion,Artifact Item,
+Diamond Hands,"Once per combat: At 50% Health, become invulnerable for 1.5 seconds and grant 2 gold. ",Artifact Item,
+Eternal Winter,"Enemies who damage the holder have their Attack Speed slowed by 20% for 1.5 seconds. After being slowed this way 7 times, the attacker is Stunned instead, but only once every 15 seconds.Unique - Only One Per Champion",Artifact Item,
+Gambler's Blade,Gain 1% bonus Attack Speed per gold in your bank (up to 80). Each attack has a 6% chance to drop 1 gold. ,Artifact Item,
+Gold Collector,Attacks and Abilities execute enemies below 12% of their maximum Health. Executions have a 40% chance to drop 1 gold .Unique - Only One Per Champion,Artifact Item,
+Goldmancer's Staff,Grant 1 Ability Power per gold in your bank (up to 60 gold) and a 45% chance to drop 2 gold on enemy kill.,Artifact Item,
+Hullcrusher,"If this unit has no adjacent allies at combat start, gain an additional 550 Health.",Artifact Item,
+Infinity Force,"Health +250, Mana +25, Attack Damage +25%, Ability Power +25, Armor +25, Magic Resist +25, Attack Speed +25%.",Artifact Item,
+Manazane,"Once per combat: After casting an Ability, restore 120 mana over 5 seconds.(Unique - Only One Per Champion)",Artifact Item,
+Mogul's Mail,"Grants 1 Armor, 1 Magic Resist, and 6 Health when taking damage, stacking up to 40 times. At full stacks, grant 2 gold.",Artifact Item,
+Rocket-Propelled Fist,"At the start of combat, the wearer Airborne pulls the farthest enemy into melee range, Stun stunning them for 1.5 seconds. Allies within range will prioritize attacking that enemy.",Artifact Item,
+Sniper's Focus,The holder's attacks and abilities deal 8% increased damage for each hex between them and their target. Gain +1 Attack range.,Artifact Item,
+Trickster's Glass,Summon a clone with 70% maximum Health and 30% increased maximum Mana. You cannot equip items to the clone. ,Artifact Item,
+Zhonya's Paradox,"Once per combat: At 40% Health, become invulnerable for 3 seconds.Unique - Only One Per Champion",Artifact Item,
+Aegis of the Legion,"Combat start: Empower all allies in the columns behind the holder, granting 30% Attack Speed and 15 Armor and Magic Resist for 12 seconds. ",Support Item,
+Banshee's Veil,Combat Start: Grant the holder and all allies within 1 hexes in the same row 15% Attack Speed and immunity to crowd control for 18 seconds.,Support Item,
+Chalice of Power,Combat start: Grant 22 Ability Power and 10 Mana to the holder and allies within 2 hexes in the same row.,Support Item,
+Crest of Cinders,"When combat begins, the holder and all allies within 1 hexes in the same row gain the Crest of Cinders. Units with the Crest of Cinders empower their attacks to Burn their target for 7% of their maximum health as true damage and apply 33% Wound.",Support Item,
+Locket of the Iron Solari,Combat start: The holder and allies within 2 hexes in the same row gain a 250 damage shield and 20 Armor and 20 Magic Resist for 20 seconds.,Support Item,
+Needlessly Big Gem,"Once per combat: If the holder is alive after 15 seconds of combat, grant 1 gold per 2 living allies, and each living ally deals 30% more damage.",Support Item,
+Obsidian Cleaver,"Attacks and Abilities 50% Shred and 50% Sunder enemies for 10 seconds. Grant your team 8% AD and 8 AP.
+Shred: reduce Magic Resist
+Sunder: reduce Armor",Support Item,
+Randuin's Omen,Combat start: Grant 30 Armor and 30 Magic Resistance to the holder and their adjacent allies.,Support Item,
+Shroud of Stillness,Combat Start: Shoot a beam that 30% Mana Reaves enemies. Your team gains 60 Health. Mana Reave: increase maximum Mana until the next cast.,Support Item,
+Virtue of the Martyr,"Heal all allies for 7% of their max Health every 5 seconds. When the holder dies, increase the heal amount by 200% and continue the duration for 10 seconds. ",Support Item,
+Zeke's Herald,Combat start: Grant 30% Attack Speed to the holder and allies within 2 hexes in the same row. ,Support Item,
+Zephyr,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. Your team gains 8% Attack Speed.(Ignores crowd control immunity.),Support Item,
+Zz'Rot Portal,Combat start: Summon a large Voidspawn that Taunts nearby enemies.,Support Item,
+Champion Duplicator,Use on a champion to create a 1-star copy on your bench.,Consumable Item,
+Lesser Champion Duplicator,Use on a champion of Tier 3 or less to create a 1-star copy on your bench.,Consumable Item,
+Loaded Dice,Use on a champion to reroll a special Shop that contains only champions sharing a Trait with the source champion.,Consumable Item,
+Magnetic Remover,Use on a champion to unequip all items.,Consumable Item,
+Reforger,Use on a champion to unequip all items and randomly transform them into different new ones.,Consumable Item,
+Scroll of Knowledge,Use on a unit to open a special armory that offers every available emblem that matches that unit's inherent traits,Consumable Item,
+Target Dummy,Use on a champion to spawn a movable target dummy nearby.,Consumable Item,
+Altruist Emblem,The holder gains the Altruist trait.,Non-Craftable Item,
+Arcanist Emblem,The holder gains the Arcanist trait.,Non-Craftable Item,
+Behemoth Emblem,The holder gains the Behemoth trait.,Non-Craftable Item,
+Bruiser Emblem,The holder gains the Bruiser trait.,Non-Craftable Item,
+Dragonlord Emblem,The holder gains the Dragonlord trait.,Non-Craftable Item,
+Duelist Emblem,The holder gains the Duelist trait.,Non-Craftable Item,
+Exalted emblem,The holder gains the Exalted trait.,Non-Craftable Item,
+Fortune Emblem,The holder gains the Fortune trait.,Non-Craftable Item,
+Inkshadow Emblem,The holder gains the Inkshadow trait.,Non-Craftable Item,
+Invoker Emblem,The holder gains the Invoker trait.,Non-Craftable Item,
+Reaper Emblem,The holder gains the Reaper trait.,Non-Craftable Item,
+Sage Emblem,Unique: The holder gains the Sage trait.,Non-Craftable Item,
+Sniper Emblem,The holder gains the Sniper trait.,Non-Craftable Item,
+Tattoo of Bombardement,Every third attack fires bolts at two lowest percent health enemies which deal 100% Attack Damage as physical damage. (Inkshadow item),Non-Craftable Item,
+Tattoo of Force,"Whenever the holder acquires a new target they run quickly to and briefly stun them, dealing 300 magic damage, and double the stats from this item for 4 seconds.(Inkshadow item)",Non-Craftable Item,
+Tattoo of Fury,"Deal 35% bonus damage to targets below half health. On takedown, gain 40% Attackspeed for 6 seconds.(Inkshadow item)",Non-Craftable Item,
+Tattoo of Protection,"Gain a 50% max Health Shield after casting the first time each combat. When it breaks, grant 50% of this shield amount to the two nearest allies.(Inkshadow item)",Non-Craftable Item,
+Tattoo of Toxin,Damage applies a toxin that deals an additional 50% of that damage over 3 seconds and 33% Wounds the target.(Inkshadow item),Non-Craftable Item,
+Tattoo of Vitality,Attacks heal the holder for 2.5% of their max Health and deal the same amount as bonus magic damage.(Inkshadow item),Non-Craftable Item,
+Warden emblem,The holder gains the Warden trait.,Non-Craftable Item,
+Absolution,Heal allies within 2 hexes for 25% of their missing Health every 5 seconds. They take 10% less multi-target damage for 5 seconds (damage reduction does not stack).,Radiant Item,
+Blessed Bloodthirster,"Grant: 40% Omnivamp and 30 bonus AP.Once per combat: At 40% Health, gain a 40% maximum Health shield that lasts up to 5 seconds.",Radiant Item,
+Blue Blessing,"Max mana reduce by 10.When the holder gets a takedown, they deal 20% more damage for 12 seconds.Unique - Only One Per Champion",Radiant Item,
+Brink of Dawn,"Once per combat: At 60% Health and again at 30% Helath, briefly become untargetable and shed negative effects. Then, gain 50% bonus Attack Speed. This effect stacks. After triggering, restore 100% of the holder’s missing health.",Radiant Item,
+Bulwark's Oath,"Once per combat: At 40% Health, gain a 70 Armor and Magic Resist for the rest of combat, and a 50% maximum Health shield that lasts up to 10 seconds.",Radiant Item,
+Chalice of Charity,Combat start: Grant 45 Ability Power and 10% Omnivamp to the holder and allies within 1 hex in the same row.Aura item,Radiant Item,
+Covalent Spark,"Grant 400 HP. 50% Shred enemies within 3 hexes. When enemies cast an Ability, they are alsol zapped for magic damage equal to 250% of their maximum Mana.Also, regenerate 1% maximum Health per second",Radiant Item,
+Crest of Cinders,"Grant 60% Attack Speed. Deal 8% bonus damage. Attacks and Abilities 3% Burn and 50% Wound enemies for seconds.Burn: Deals a percent of the target's maximum Health as true damage every 5 seconds.
+Wound: Reduces healing received.",Radiant Item,
+Demon Slayer,Abilities and attacks deal 60% more damage to enemies with more than 1600 maximum Health. ,Radiant Item,
+Dragon's Will,"Every 2 seconds, regenerate 18% maximum Health. ",Radiant Item,
+Dvarapala Stoneplate,"Gain 250 Health. Grant 50 Armor and 50 Magic Resist for each enemy targeting holder.Also, regenerate 2% maximum Health each second.",Radiant Item,
+Equinox,30% Sunder enemies within 2 hexes. Grant 50 Armor and Magic Resist for the first 15 seconds of combat.Sunder: Reduce Armor,Radiant Item,
+Eternal Whisper,"Any physical damage dealt the 50% Sunders the target for the rest of combat. This effect does not stack.Unique - only one per champion
+Sunder: reduce Armor",Radiant Item,
+Fist of Fairness,"Grant 2 effects:
++50% Attack Damage and +50 Ability Power.
+30% Omnivamp.Omnivamp: heal for some of damage dealt",Radiant Item,
+Glamorous Gauntlet,Gain 65 AP. Damage from an Ability can critically strike. ,Radiant Item,
+Guinsoo's Reckoning,Grant 20% starting Attack Speed. Attacks grant +8% bonus Attack Speed. This effect stacks.,Radiant Item,
+Hextech Lifeblade,The holder's damage heal them for 35% of the damage dealt. The holder also heals their lowest health ally for the same amount. ,Radiant Item,
+Jak'sho the Protean,"Combat Start: The holder gains two effects, regardless of starting position.Front Two Rows: 80 Armor and Magic Resist. Gain 2 Mana when struck by an attack.Back Two Rows: 55 Ability Power. Gain 20 Mana every 3 seconds.",Radiant Item,
+Legacy of the Colossus,"Take 12% less damage. While above 40% Health, take 18% less damage, instead. ",Radiant Item,
+Locket of Targon Prime,"When combat begins, the holder and all allies within 3 hexes in the same row gain a shield that blocks 275/325/375★ damage for 25 seconds.Radiant Bonus: Grants 200 Health for all allies at the start of combat.",Radiant Item,
+Luminous Deathblade,"It glows in the presence of enemies. Or friends. Or anything alive, really. Gain 125% physical damage.",Radiant Item,
+Mistral,"Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 8 seconds.
+Your team gains 15% Attack Speed.Ignores crowd control immunity",Radiant Item,
+More More-ellonomicon,"Gain 40 Ability Power and 25% Attack Speed. Damage from the holder's Ability 3% Burns and 33% Wounds enemies for 30 seconds.Unique - only 1 per champion
+Burn: Deals a percent of the target's maximum Health as true damage every second
+Wound: Reduces healing received",Radiant Item,
+Quickestsilver,Combat start: Grant immunity to crowd control for 30 seconds.Unique - only 1 per champion,Radiant Item,
+Rabadon's Ascended Deathcap,Gain 140 Ability Power and 50% bonus damage. It's witnessed - and unleashed - miracles and calamities both.,Radiant Item,
+Rascal's Gloves,Each round: Equip 2 random Radiant items.Consumes 3 item slots,Radiant Item,
+Rosethorn Vest,"Reduces 70% bonus damage from incoming critical strikes. On being hit by an attack, deal 125/175/225★ magic damage to all nearby enemies (once every 2 seconds). ",Radiant Item,
+Royal Crownshield,"Combat start: Gain a 50% max health shield for 8 seconds. When the shields expires, gain 50 Ability Power.",Radiant Item,
+Runaan's Tempest,"Attacks fire a bolt at another nearby enemy, dealing 110% Attack Damage as physical damage.(Direct damage item)",Radiant Item,
+Shroud of Reverance,"Combat start: Shoot a wider beam that 50% Mana Reaves enemies. Your team gains 25 starting Mana.Unique - only 1 per champion
+Mana Reave: increase maximum Mana until the next cast",Radiant Item,
+Spear of Hirana,Attack restore 10 additional Mana. Gain 45 Ability Power.,Radiant Item,
+Statikk Favor,"Every third attack unleashes chain lightning that bounces to 8 enemies, dealing 80 magic damage and reducing their Magic Resist by 50% for 5 seconds.",Radiant Item,
+Sterak's Megashield,"Once per combat at 75% Health, increase max health by 30% and gain 55% Attack Damage for the rest of combat.",Radiant Item,
+Stride Breaker,"After damaging a shielded enemy, Abilities and attacks 50% deal more damage for 3 seconds. ",Radiant Item,
+Sunlight Cape,"Gain 300 Health. Every 1.5 seconds, a random enemy within 3 hexes is burned for 60% of their maximum Health as true damage over 30 seconds. Any healing they receive is reduced by 33%.Unique - Only One Per Champion",Radiant Item,
+The Baron’s Gift,"After casting an Ability, gain 55% Attack Speed for 5 seconds. ",Radiant Item,
+Titan's Vow,"Grant 3% Attack Damage 3 Ability Power when attacking or taking damage, stacking up to 25 times.At full stacks, gain 60 Armor and Magic Resist.",Radiant Item,
+Urf-Angel's Staff,Combat start: Gain 40 Ability Power every 4 seconds.,Radiant Item,
+Warmog's Pride,Regenerate 1% max Health per second.,Radiant Item,
+Willbreaker,"Grant bonus 30 Attack Damage and bonus Ability Power. After damaging a shielded enemy, Abilities and attacks deal more damage.",Radiant Item,
+Zenith Edge,Gain 65% Attack Damage. Damage from an Ability can critically strike. ,Radiant Item,
